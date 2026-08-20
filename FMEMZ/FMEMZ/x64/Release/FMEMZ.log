@@ -1,0 +1,8 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Platforms\x64\PlatformToolsets\v141_xp\Toolset.targets(39,5): warning MSB8051: поддержка Windows XP прекращена, ее не будет в последующих выпусках Visual Studio. Дополнительные сведения: https://go.microsoft.com/fwlink/?linkid=2023588.
+  FMEMZ.cpp
+  Создание кода
+  1 of 254 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  FMEMZ.vcxproj -> C:\Users\kwinda\source\repos\FMEMZ\x64\Release\FMEMZ.exe
